@@ -1,0 +1,9 @@
+PyPDF2
+sentence-transformers
+faiss-cpu
+numpy
+torch
+transformers
+unstructured
+python-magic # Dependency for unstructured, ensures file type detection works
+lxml # Dependency for unstructured, for parsing HTML/XML
